@@ -34,4 +34,5 @@ $ npm publish
 5.
 ```
 npm install xiaoxue-npm
+import area from '../node_modules/xiaoxue-npm';
 ```
